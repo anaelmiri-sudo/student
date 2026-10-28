@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">רישום תלמידים</string>
+    <string name="hint_first_name">שם פרטי</string>
+    <string name="hint_last_name">שם משפחה</string>
+    <string name="hint_email">כתובת אימייל</string>
+    <string name="label_class">בחר כיתה:</string>
+    <string name="class_y">י</string>
+    <string name="class_yi">יא</string>
+    <string name="class_yif">יב</string>
+    <string name="cb_notifications">קבלת התראות</string>
+    <string name="cb_terms">אני מאשר את תנאי השימוש</string>
+    <string name="btn_submit">התחברות</string>
+
+    <!-- הודעות שגיאה -->
+    <string name="err_required">שדה חובה</string>
+    <string name="err_email">אימייל לא תקין</string>
+    <string name="err_class">יש לבחור כיתה</string>
+    <string name="err_terms">חובה לאשר את תנאי השימוש</string>
+</resources>
